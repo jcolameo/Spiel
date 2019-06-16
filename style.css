@@ -1,0 +1,231 @@
+body{
+    background-color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.background{
+    height:625px;
+    background-size: cover;
+    background-position:50% 10%;
+    background-image:url(bilder/world.jpg);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.background2{
+    height:625px;
+    background-size: cover;
+    background-position:50% 20%;
+    background-image:url(bilder/jumpingcliff.jpg);
+    font-family:'Times New Roman', Times, serif;
+}
+.background3{
+    height:625px;
+    background-size: cover;
+    background-position:50% 20%;
+    background-image:url(bilder/foundanimal.jpg);
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1{
+    color:rgb(255, 255, 255);
+}
+
+.header{
+    padding: 25px;
+    margin: 10px;
+}
+
+.container{
+    padding: 15px;
+    margin: 35px;
+    border: 25px;
+    padding: 50;
+}
+
+a{
+    color:rgb(255, 255, 255);
+    font-size: 45px;
+    text-decoration-line: none;
+    text-align: center;
+    text-decoration-style: none;
+    
+}
+
+.doggo-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position-x: center;
+    background-image: url(../spiel/bilder/animal-welfare.jpg);
+    background-size: cover;
+}
+
+.juwel-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position-x: center;
+    background-image: url(../spiel/bilder/jewels.jpg);
+    background-size: cover;
+}
+
+.sleep-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position-x: center;
+    background-image: url(../spiel/bilder/bed.jpg);
+    background-size: cover;
+}
+
+.book-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position-x: center;
+    background-image: url(../spiel/bilder/desk.jpg);
+    background-size: cover;
+}
+.streetlamp-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position: 40% 55%;
+    background-image: url(../spiel/bilder/streetlamp.jpg);
+    background-size: cover;
+}
+.door-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position: 40% 55%;
+    background-image: url(../spiel/bilder/door.jpg);
+    background-size: cover;
+}
+
+.search-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position: 30% 55%;
+    background-image: url(../spiel/bilder/search.jpg);
+    background-size:400%;
+}
+.run-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position: 10% 55%;
+    background-image: url(../spiel/bilder/Wegrennen.jpg);
+    background-size:cover;
+}
+
+.kriechen-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position: 25% 50%;
+    background-image: url(../spiel/bilder/kriechen.jpg);
+    background-size:150%;
+}
+
+.see-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position: 25% 50%;
+    background-image: url(../spiel/bilder/bushes.jpg);
+    background-size:150%;
+}
+
+.hole-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position: 40% 55%;
+    background-image: url(../spiel/bilder/hole.jpg);
+    background-size: cover;
+}
+
+.goinghome-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position-x: center;
+    background-image: url(../spiel/bilder/house.jpg);
+    background-size: cover;
+}
+.murder-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position-x: center;
+    background-image: url(../spiel/bilder/psycho.png);
+    background-size: cover;
+}
+.police-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position-x: center;
+    background-image: url(../spiel/bilder/blue-light.jpg);
+    background-size: cover;
+}
+
+.suchen-button{
+    font-family: sans-serif;
+    text-size-adjust: 80px;
+    text-shadow: black;
+    width:318px;
+    height:310px;
+    background-position-x: center;
+    background-image: url(../spiel/bilder/binoculars.jpg);
+    background-size: cover;
+}
+
+.back-button{
+    font-family: sans-serif;
+    text-size-adjust: 90px;
+   /* text-shadow: black; */
+   border: none;
+    width:200px;
+    height:100px;
+    background-color: grey;
+}
+
+.back-button-center {
+    margin:0 auto;
+    display:block;
+}
+
+img{
+    size: 30px;
+}
